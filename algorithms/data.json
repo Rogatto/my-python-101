@@ -1,0 +1,14 @@
+{
+    "emp_details": [
+        {
+            "name": "Guilherme",
+            "email": "gui@gmail.com",
+            "department": "tech"
+        },
+        {
+            "name": "Gustavo",
+            "email": "gustavo@gmail.com",
+            "department": "eletrical"
+        }
+    ]
+}
